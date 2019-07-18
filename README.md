@@ -12,4 +12,5 @@ Learning Econometric using python: lecture notes for my students.
 * Section 8: Build a robot to feed you data. (optinal)
 * Section 9: Deal with Geography dataset.
 * Section 10: Basic Text mining skills.
+* Section 11: Use servers and do cloud computation.
 
