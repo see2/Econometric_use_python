@@ -11,5 +11,5 @@ Learning Econometric using python: lecture notes for my students.
 * Section 7: How to use API with python. (optinal)
 * Section 8: Build a robot to feed you data. (optinal)
 * Section 9: Deal with Geography dataset.
-* Section 10: Basic Text minging skills.
+* Section 10: Basic Text mining skills.
 
