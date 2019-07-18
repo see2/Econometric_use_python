@@ -13,4 +13,6 @@ Learning Econometric using python: lecture notes for my students.
 * Section 9: Deal with Geography dataset.
 * Section 10: Basic Text mining skills.
 * Section 11: Use servers and do cloud computation.
+* Section 12: Machine learning application.
+
 
