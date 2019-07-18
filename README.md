@@ -1,4 +1,5 @@
-# Econometric_use_python
+# Econometric use Python
+
 Learning Econometric using python: lecture notes for my students.
 
 * Section 1: Python Basic
