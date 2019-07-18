@@ -10,4 +10,6 @@ Learning Econometric using python: lecture notes for my students.
 * Section 6: Learn STATA in one day. (optinal)
 * Section 7: How to use API with python. (optinal)
 * Section 8: Build a robot to feed you data. (optinal)
+* Section 9: Deal with Geography dataset.
+* Section 10: Basic Text minging skills.
 
